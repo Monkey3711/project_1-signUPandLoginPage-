@@ -1,4 +1,4 @@
-const sigUp_model = require("./sign_data");
+
 const signUp_model = require("./sign_data");
 
 exports.SignUp_data = async(req,res)=>{
